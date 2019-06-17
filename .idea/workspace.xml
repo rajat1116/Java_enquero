@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df57a052-6b82-4ff2-a58e-6977c17a6aab" name="Default Changelist" comment="" />
+    <list default="true" id="df57a052-6b82-4ff2-a58e-6977c17a6aab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Java_enquero/com/StringArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StringArray.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Setters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="73">
               <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/StringArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -54,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/com/MultiDArray.java" />
         <option value="$PROJECT_DIR$/src/com/Parameter_Methodh.java" />
         <option value="$PROJECT_DIR$/src/com/Setters.java" />
+        <option value="$PROJECT_DIR$/src/com/StringArray.java" />
       </list>
     </option>
   </component>
@@ -118,8 +132,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="StringArray" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.StringArray" />
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SwitchStatement" />
       <module name="Java_enquero" />
       <extension name="coverage">
         <pattern>
@@ -299,6 +313,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/StringArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
         </state>
       </provider>
     </entry>
