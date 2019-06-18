@@ -1,4 +1,4 @@
-package InheritanceExample;
+package Assignment.InheritanceExample;
 
 public class Car extends machine{
     /*

@@ -1,4 +1,4 @@
-package InheritanceExample;
+package Assignment.InheritanceExample;
 /*
 using for inheritance
  */
