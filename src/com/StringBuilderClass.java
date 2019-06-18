@@ -10,6 +10,7 @@ public class StringBuilderClass {
         info += "My name is Bob. ";
         info += " ";
         info += "I am a builder.";
+        System.out.println(info);
 
         /*
         This process makes easy by String builder class
@@ -33,7 +34,5 @@ public class StringBuilderClass {
                 .append("and I am Batman");
 
         System.out.println(s.toString());
-
-
     }
 }
