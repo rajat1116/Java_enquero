@@ -1,4 +1,4 @@
-package Interfaces;
+package Assignment.Interfaces;
 
 public class Person implements Info {
     private String name;

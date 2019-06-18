@@ -1,4 +1,4 @@
-package Interfaces;
+package Assignment.Interfaces;
 
 public class Machine implements Info{
     private int id = 7;
