@@ -5,17 +5,17 @@ package Assignment;
 
 import java.io.*;
 
-class Building{
+class Question1{
     void color(){
         System.out.println("Blue");
     }
 }
-class Room extends Building{
+class Room extends Question1{
     void color() throws IOException {
         System.out.println("Red");
     }
     public static void main(String[] args){
-        Building obj = new Room();
+        Question1 obj = new Room();
         try{
             obj.color();
 
@@ -23,6 +23,4 @@ class Room extends Building{
             System.out.println(e);
         }
     }
-}
-public class Question1 {
 }
