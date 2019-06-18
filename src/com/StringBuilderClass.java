@@ -15,6 +15,7 @@ public class StringBuilderClass {
         This process makes easy by String builder class
         syntax : StringBuilder variable_name = new SringBuilder();
         we can pass the argument in the parenthesis
+        To print System.out.println(variable_name.toString())
          */
         StringBuilder sb = new StringBuilder();
         sb.append("My name is RDJ");
