@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df57a052-6b82-4ff2-a58e-6977c17a6aab" name="Default Changelist" comment="" />
+    <list default="true" id="df57a052-6b82-4ff2-a58e-6977c17a6aab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assignment/Question9.java">
+        <entry file="file://$PROJECT_DIR$/src/Encapsulation/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -42,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/Variables.java" />
         <option value="$PROJECT_DIR$/src/com/UserIn.java" />
         <option value="$PROJECT_DIR$/src/com/Arrays.java" />
         <option value="$PROJECT_DIR$/src/com/ClassMethod.java" />
@@ -93,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/Assignment/Question6.java" />
         <option value="$PROJECT_DIR$/src/Assignment/Question7.java" />
         <option value="$PROJECT_DIR$/src/Assignment/Question9.java" />
+        <option value="$PROJECT_DIR$/src/Encapsulation/App.java" />
       </list>
     </option>
   </component>
@@ -106,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,12 +131,13 @@
               <item name="Java_enquero" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_enquero" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="Encapsulation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,20 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question7">
-    <configuration name="ExpHand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ExpHand" />
-      <module name="Java_enquero" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question9">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment.Abstraction.Main" />
       <module name="Java_enquero" />
@@ -217,6 +207,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Question9" />
+      <module name="Java_enquero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment.Room" />
       <module name="Java_enquero" />
@@ -245,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question9" />
         <item itemvalue="Application.Question7" />
         <item itemvalue="Application.Question6" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Room" />
-        <item itemvalue="Application.ExpHand" />
       </list>
     </recent_temporary>
   </component>
@@ -268,8 +271,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2728745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2777328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -350,13 +354,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Variables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/UserIn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
@@ -588,9 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Text.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text.txt" />
     <entry file="file://$PROJECT_DIR$/src/com/Test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -671,13 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment/Question4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment/Question7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -692,10 +680,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assignment/Question4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Assignment/Question9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Encapsulation/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
