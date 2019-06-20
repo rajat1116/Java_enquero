@@ -1,8 +1,0 @@
-Question 3)  what diff between abstract and interface give example
-
-Abstraction class cna have abstract and non-abstract method, In interface we are
-implementation completely up to the child class. So therefore we can't put code in interface.
-In abstract the child class has fundamental identity of the parent class.
-In interface we hide all of our data and in abstraction we can show some of data
-
-Example codes has been attached
